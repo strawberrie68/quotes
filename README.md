@@ -34,3 +34,9 @@ Things I would like to fix/add
 This project taught me a few important lessons. Learning about how a language works and the importance of documentation is very important when creating a project. It was my first time using React and I learned that in order for the app to be less buggy I have to build according to the document or else it won't work as I wanted. 
 
 This was shown when I just wanted to toggle the Heart Component. Although the code was correct ( I believe) the Heart still wasn't toggle right. It was not until I understood that becasue of the order of my functions, React was rerendering even when it was not ready to be re-rendered
+
+
+## 👩‍💻 To try the project
+npm start
+in .env file have a Mongoose atlas string
+
